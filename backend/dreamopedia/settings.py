@@ -20,7 +20,7 @@ DATABASES['default'].update({
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'your-secret-key')
-ALLOWED_HOSTS = ['.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = [ 'localhost']
 DEBUG = False
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
