@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zekro009.github.io/Dream-o-pedia/",
+  "homepage": ".",
   "author": "Zekro",
 
   "dependencies": {
