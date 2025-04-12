@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d48010e.css",
-    "main.js": "/static/js/main.dfbdd824.js",
-    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
-    "index.html": "/index.html",
-    "main.9d48010e.css.map": "/static/css/main.9d48010e.css.map",
-    "main.dfbdd824.js.map": "/static/js/main.dfbdd824.js.map",
-    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/Dream-o-pedia/static/css/main.9d48010e.css",
+    "main.js": "/Dream-o-pedia/static/js/main.36c2533f.js",
+    "static/js/453.8ab44547.chunk.js": "/Dream-o-pedia/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Dream-o-pedia/index.html",
+    "main.9d48010e.css.map": "/Dream-o-pedia/static/css/main.9d48010e.css.map",
+    "main.36c2533f.js.map": "/Dream-o-pedia/static/js/main.36c2533f.js.map",
+    "453.8ab44547.chunk.js.map": "/Dream-o-pedia/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d48010e.css",
-    "static/js/main.dfbdd824.js"
+    "static/js/main.36c2533f.js"
   ]
 }
